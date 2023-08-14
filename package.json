@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "eslint-config-prettier": "^8.9.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "mathjs": "^11.9.1",
+    "prettier": "^3.0.0"
+  },
+  "name": "meu-primeiro-servidor",
+  "version": "1.0.0",
+  "description": "Esse projeto foi desenvolvido na aula de primeiro servidor do curso de desenvolvimento de software da Cubos Academy",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "npm"
+  ],
+  "author": "Joedson de Amorim",
+  "license": "ISC"
+}
